@@ -13,7 +13,7 @@ Chat app with React Native, Redux and Firebase
 # Installation
 Install the emulator of your choice <a href="https://developer.android.com/studio">Android Studio</a> or <a href="https://developer.apple.com/xcode/">Xcode</a><br />
 
-Is necessary install Nodejs and Python. I used NodeJs 8.10.0 and Python 2.7.12
+Is necessary install Nodejs and Python. I used NodeJs v8.10.0 and Python v2.7.12
 
 # Usage
 First run <b>$ npm install</b> to install all modules<br />

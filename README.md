@@ -16,7 +16,7 @@ Install the emulator of your choice <a href="https://developer.android.com/studi
 Is necessary install Nodejs and Python. I used NodeJs v8.10.0 and Python v2.7.12
 
 # Usage
-First run <b>$ npm install</b> to install all modules<br />
+First run <b>$ npm install</b> to install all modules and next run <b> react-native link</b> <br />
 
 Run the command with emulator open to build app
 <b>$ react-native run-android</b> or <b>$ react-native-run-ios</b>
